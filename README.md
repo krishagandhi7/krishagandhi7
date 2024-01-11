@@ -13,7 +13,7 @@
 
 
 <h4 align="left">🎓 Education: (BS in Economics & Finance, MS in Specialized Economic Analysis, MS in Business Analytics)</h4>
-<a href="https://www.shc.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/SHC_logo-stack-2627c%2Bk-1.png" alt="SHC" width="150" height="90"/>
+<a href="https://www.shc.edu/" target="_blank" rel="noreferrer"><img src="C:\Users\gandh\Downloads" alt="SHC" width="150" height="90"/>
 &nbsp;&nbsp;&nbsp;
 <a href="https://usc.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg" alt="USC" width="90" height="90"/>
 
