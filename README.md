@@ -15,7 +15,7 @@
 <h4 align="left">🎓 Education: (BS in Economics & Finance, MS in Specialized Economic Analysis, MS in Business Analytics)</h4>
 <a href="https://www.lse.ac.uk/" target="_blank" rel="noreferrer"><img src="https://download.logo.wine/logo/London_School_of_Economics/London_School_of_Economics-Logo.wine.png" alt="LSE" width="180" height="150"/>
 &nbsp;&nbsp;&nbsp;
-<a href="[https://bse.eu/study/masters-programs?utm_source=GoogleAds&utm_medium=listing&utm_campaign=Masters_G3_Search&utm_content=&utm_term=programs&gad_source=1&gclid=Cj0KCQiAzoeuBhDqARIsAMdH14Faopq4xX8EkcwYPV1A1A0kc5LSkbl9S0llM9eJKqSoMwr7j6M7e74aApwoEALw_wcB#masters](https://bse.eu/study/masters-programs/international-trade-finance-and-development)" target="_blank" rel="noreferrer"><img src="https://images.app.goo.gl/Jk79aiSqir5vCocY6" alt="BSE" width="90" height="90"/>
+<a href="https://bse.eu/study/masters-programs/international-trade-finance-and-development" target="_blank" rel="noreferrer"><img src="https://en.m.wikipedia.org/wiki/File:BSE_primary_logo_color.jpg" alt="BSE" width="90" height="90"/>
 &nbsp;&nbsp;&nbsp;
 <a href="https://usc.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg" alt="USC" width="90" height="90"/>
 
