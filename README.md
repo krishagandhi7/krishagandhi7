@@ -13,7 +13,7 @@
 
 
 <h4 align="left">🎓 Education: (BS in Economics & Finance, MS in Specialized Economic Analysis, MS in Business Analytics)</h4>
-<a href="https://www.lse.ac.uk/" target="_blank" rel="noreferrer"><img src="https://download.logo.wine/logo/London_School_of_Economics/London_School_of_Economics-Logo.wine.png" alt="LSE" width="120" height="100"/>
+<a href="https://www.lse.ac.uk/" target="_blank" rel="noreferrer"><img src="https://download.logo.wine/logo/London_School_of_Economics/London_School_of_Economics-Logo.wine.png" alt="LSE" width="180" height="150"/>
 &nbsp;&nbsp;&nbsp;
 <a href="https://usc.edu/" target="_blank" rel="noreferrer"><img src="https://images.app.goo.gl/Jk79aiSqir5vCocY6" alt="BSE" width="90" height="90"/>
 &nbsp;&nbsp;&nbsp;
