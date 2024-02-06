@@ -8,7 +8,7 @@
 
 - 📈 Master in Business Analytics Candidate at [@USC](https://www.usc.edu/)
 - 📫 How to reach me: *krishadh@usc.edu*
--  📄 Resume Link: [Resume](https://drive.google.com/drive/u/0/my-drive)
+-  📄 Resume Link: [Resume](https://drive.google.com/file/d/1DDRmyNnNcNeyPGtAouYLJrKaHxTkasbm/view?usp=drive_link)
 <!-- ⚡ Fun fact: *Pro * -->
 
 
