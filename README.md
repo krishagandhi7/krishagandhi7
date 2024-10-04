@@ -1,4 +1,4 @@
-# krishagandhi
+# KrishaGandhi
 
 <h1 align="center">Hi, I'm Krisha Gandhi, Welcome to my Github! 🧪</h1>
 <!-- <h3 align="center">Data-Driven Data Scientist Committed to Tackling Real-World Challenges</h3> -->
