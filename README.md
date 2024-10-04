@@ -8,7 +8,7 @@
 
 - 📈 Master in Business Analytics Candidate at [@USC](https://www.usc.edu/)
 - 📫 How to reach me: *krishadh@usc.edu*
--  📄 Resume Link: [Resume](https://drive.google.com/file/d/1DDRmyNnNcNeyPGtAouYLJrKaHxTkasbm/view?usp=drive_link)
+-  📄 Resume Link: [Resume](drive_link)
 <!-- ⚡ Fun fact: *Pro * -->
 
 
@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/krisha-gandhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanherrera" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krisha-gandhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishagandhi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">About Me:</h3>
-<h4 align="left">I have a strong foundation in data-driven decision-making and advanced analytics. I have experience working in the ticketing industry as a business analyst where I worked in cross-cultural and cross-functional teams and where I developed strong problem solving, critical thinking and communication skills. I am currently pursuing an M.S. in Business Analytics at USC Marshall School of Business, and I am eager to embark on a career leveraging my adept data science skills to deliver immediate value.</h4>
+<h4 align="left">I have a strong foundation in data-driven decision-making and advanced analytics. I have 3 years of hands-on experience working as a Data Analyst globally (in Europe and Africa) in the economic development and policy space. Most recently, I spent the summer as a Data Analyst at TechInsights in the Bay Area, where I developed a demand analysis model for AI chip processors and published key reports that provided actionable insights to the semiconductor industry. I am currently pursuing an M.S. in Business Analytics at USC Marshall School of Business, and I am eager to embark on a career leveraging my adept data analytical skills to deliver immediate value.</h4>
   
 ![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
