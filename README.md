@@ -1,8 +1,8 @@
 # KrishaGandhi
 
-<h1 align="center">Hi, I'm Krisha Gandhi, Welcome to my Github! 🧪</h1>
+<h1 align="center">Hi, I'm Krisha Gandhi, Welcome to my Github! </h1>
 <!-- <h3 align="center">Data-Driven Data Scientist Committed to Tackling Real-World Challenges</h3> -->
-<img align="right" alt="Coding" width="350" src="https://hackernoon.com/images/f2px36fy.gif">
+
 
 
 
