@@ -14,7 +14,7 @@
 
 <h4 align="left">🎓 Education: (BS in Economics & Finance, MS in Specialized Economic Analysis, MS in Business Analytics)</h4> 
 
-<h4 align="left"><a href="https://www.lse.ac.uk/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/LSE_Logo.svg" alt="LSE" width="200" height="95"/> 
+<h4 align="left"><a href="https://www.lse.ac.uk/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/LSE_Logo.svg" alt="LSE" width="180" height="95"/> 
 
 <h4 align="left"><a href="https://bse.eu/study/masters-programs/international-trade-finance-and-development" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/BSE_primary_logo_color.jpg" alt="BSE" width="200" height="90"/>
 
